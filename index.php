@@ -7,6 +7,8 @@ if($text == "/start"){
 } else if($text == 'c' || $text == 'C'){
     send($cid, "Будет солнечно и тепло!");
    }
+   
+   
 ?>
 <!DOCTYPE HTML PUBLIC ".//W3C//DTD HTML 4.01//EN">
 <html>
